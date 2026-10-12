@@ -1,0 +1,10 @@
+Repository:
+	Repository is a folder in web that can hold files.
+
+	We can upload any file into a web repo and download them anywhere.
+
+Web hosting:
+	hosting is to publish or present a webpage online to the public.
+
+
+
